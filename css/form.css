@@ -1,0 +1,91 @@
+* {
+    box-sizing: border-box;
+}
+
+.block1 {
+    margin: 0 auto;
+    margin-top: 50px;
+    width: 500px;
+    height: 656px;
+    background-color: aliceblue;
+}
+
+.my-box {
+
+    text-align: center;
+    padding-top: 52px;
+
+}
+
+.ma-text1 {
+    font-family: Cera Pro;
+    font-weight: 500;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 16px;
+    letter-spacing: 0%;
+}
+
+.ma-text3 {
+    font-family: Cera Pro;
+    font-weight: 500;
+    font-size: 20px;
+    leading-trim: NONE;
+    line-height: 16px;
+    letter-spacing: 0%;
+    color: #46A358;
+
+}
+
+.input-type {
+
+    margin-top: 14px;
+    margin-left: 100px;
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px;
+    padding: 0 10px;
+}
+
+.button-submit {
+
+    margin-left: 100px;
+    margin-top: 41px;
+    width: 300px;
+    height: 40px;
+    border: 1px;
+    border-radius: 5px;
+    background-color: #46A358;
+
+}
+
+.par {
+
+    text-align: center;
+    margin-top: 36px;
+}
+
+.butt {
+
+    margin-top: 40px;
+    margin-left: 100px;
+    width: 300px;
+    height: 40px;
+    border: 1px;
+    border-radius: 5px;
+    size: 13px;
+
+}
+
+.butt-2 {
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 300px;
+    height: 40px;
+    border: 1px;
+    border-radius: 5px;
+    size: 13px;
+
+}
+
