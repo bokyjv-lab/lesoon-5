@@ -6,6 +6,12 @@
     border: none;
 }
 
+body {
+
+  font-family: "Open Sans", sans-serif;
+
+}
+
 .coutainer {
     padding: 30px 0 14px;
     border-bottom: 0.3px solid #46A35880;
@@ -136,4 +142,124 @@ p {
     height: 35px;
     width: 140px;
     cursor: pointer;
+}
+
+aside {
+
+    width: 310px;
+    height: 774px;
+    margin-top: 26px;
+    margin-left: 135px;
+}
+
+
+ul {
+    display: flex;
+    flex-direction: column;
+    line-height: 40px;
+    margin-top: 7px;
+    margin-left: 30px;
+
+
+    a {
+        color: #3D3D3D;
+        text-decoration: none;
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .a-HousePlants {
+        color: #46A358;
+    }
+
+
+}
+
+h3 {
+    font-size: 18px;
+    font-weight: 700;
+
+    padding-top: 14px;
+    margin-left: 18px;
+}
+
+
+.nav2 {
+
+    width: 838px;
+    height: 23px;
+    margin-top: 26px;
+    margin-left: 50px;
+    margin-bottom: 30px;
+
+    & a:not(:first-child) {
+        margin-left: 38px;
+    }
+
+    a {
+        text-decoration: none;
+        color: #3D3D3D;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 16px;
+
+
+
+
+    }
+
+    .All-Plants {
+        color: #46A358;
+        font-weight: 700;
+        font-size: 15px;
+        line-height: 16px;
+        border-bottom: 3px solid ;
+    }
+}
+
+
+.Short {
+    margin-left: 385px;
+}
+
+.product {
+    margin-top: 30px;
+    width: 840px;
+    height: 1190px;
+}
+
+.product-card {
+    /* width: 258px; */
+    height: 350px;
+    padding-top: 1px;
+    display: flex;
+    gap: 30px;
+
+
+}
+
+.product-card2 {
+
+    height: 350px;
+    padding-top: 1px;
+    display: flex;
+    gap: 30px;
+    margin-top: 70px;
+}
+
+.product-img {
+
+    width: 250px;
+    height: 250px;
+    margin: 31px 4px 19px 4px;
+
+}
+
+.product-price {
+    margin-top: 24px;
+}
+
+.collor-grin {
+
+    color: #46A358;
 }
